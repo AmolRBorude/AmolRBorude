@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amol</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-- 🔭 I’m currently working on **Todo List Project using Flask**
+- 🔭 I’m currently working on **Projects**
 
 - 🌱 I’m currently learning **Flask,Django**
 
