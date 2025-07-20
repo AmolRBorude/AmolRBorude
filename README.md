@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://amolrborude.netlify.app/](https://amolrborude.netlify.app/)
 
-- 💬 Ask me about **Android (Java,Koltin)**
+- 💬 Ask me about **Android(Java,Kotlin),Python,OOP's,DSA,Javascript**
 
 - 📫 How to reach me **amolborude2020@gmail.com**
 
