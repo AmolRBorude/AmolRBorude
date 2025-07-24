@@ -3,11 +3,9 @@
 
 - 🔭 I’m currently working on **Projects**
 
-- 🌱 I’m currently learning **Flask,Django**
+- 🌱 I’m currently learning **Flask,MySQl,Android**
 
-- 👨‍💻 All of my projects are available at [https://amolrborude.netlify.app/](https://amolrborude.netlify.app/)
-
-- 💬 Ask me about **Android(Java,Kotlin),Jetpack Compose,MVVM,Python,OOP's,DSA,Javascript,HTML,CSS,C,C++**
+- 💬 Ask me about **Android(Java,Kotlin),Jetpack Compose,Python,OOP's,DSA,Javascript,HTML,CSS,C,C++**
 
 - 📫 How to reach me **amolborude2020@gmail.com**
 
