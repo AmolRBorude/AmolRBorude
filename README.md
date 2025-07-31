@@ -1,10 +1,10 @@
 👋 Hi there, I'm **Borude Amol Ramdas**  
-🎓| Software Developer
+🎓 Software Developer
 
 ---
 
 ### 🚀 About Me  
-I'm a passionate Computer Engineering graduate with expertise in **Full stack Python Developer**,and **Android App Development**. I have completed **Training in Android Development** at Mountreach Soltuion Pvt.Ltd Amaravati.
+I'm a passionate Computer Engineering graduate with expertise in **Full stack Python Developer** and **Android App Development**. I have completed **Training in Android Development** at Mountreach Soltuion Pvt.Ltd Amaravati.
 
 ---
 
@@ -17,6 +17,7 @@ I'm a passionate Computer Engineering graduate with expertise in **Full stack Py
 ### 🛠️ Technologies & Skills  
 **Languages :** `Python`, `C`, `C++`, `Java`,`Kotlin`,`JavaScript`,`HTML`,`CSS`,`DSA`  
 **Frameworks :** `Django`, `Flask`
+**Libraries :** `NumPy`,`Pandas`,`Plotly `,`Matplotlib`,`Seaborn`
 **Tools :** `Git`, `Jupyter`, `VS Code`, `Dev C++`
 
 ---
