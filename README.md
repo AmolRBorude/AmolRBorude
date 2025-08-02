@@ -32,7 +32,7 @@ I'm a passionate Computer Engineering graduate with expertise in **Full stack Py
 ---
 
 ### 💼 Internships / Training 
-- **Android Development** @Mountreach Soltuion Pvt.Ltd Amaravati.  
+- **Android Development Trainee** @Mountreach Soltuion Pvt.Ltd Amaravati.  
 - **ML Intern** @InternPe  
 
 ---
