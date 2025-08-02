@@ -26,7 +26,7 @@ I'm a passionate Computer Engineering graduate with expertise in **Full stack Py
 - 💇 **Hair Salon Appoinment website using Flask** with **MySQL Database**
 - 🤰 **She safe Android App**
 - 🚗 **Car price prediction web using Django with ML Model**
-- 📱 **Contact Book Website Using Django with SQLLite Database**
+- 📱 **Contact Book Website Using Django with SQLite Database**
 
 
 ---
