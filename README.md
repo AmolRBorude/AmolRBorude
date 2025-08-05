@@ -10,7 +10,7 @@ I'm a passionate Computer Engineering graduate with expertise in **Full stack Py
 
 ### 🔭 Current Focus Areas  
 - **Full-Stack Web Development** using **Django**, **Flask**, and modern frontend tools  
-- **Database** MySQL
+
 
 ---
 
@@ -19,14 +19,16 @@ I'm a passionate Computer Engineering graduate with expertise in **Full stack Py
 **Frameworks :** `Django`, `Flask`
 **Libraries :** `NumPy`,`Pandas`,`Plotly `,`Matplotlib`,`Seaborn`
 **Tools :** `Git`, `Jupyter`, `VS Code`, `Dev C++`
+**Database:** `MySQL`,`SQLite`
 
 ---
 
 ### ⭐ Featured Projects  
-- 💇 **Hair Salon Appoinment website using Flask** with **MySQL Database**
+- 💇 **Hair Salon Appoinment website using Flask with MySQL Database**
 - 🤰 **She safe Android App**
 - 🚗 **Car price prediction web using Django with ML Model**
 - 📱 **Contact Book Website Using Django with SQLite Database**
+- 💰 **Finance Tracker Website using Django with SQLite Database**
 
 
 ---
