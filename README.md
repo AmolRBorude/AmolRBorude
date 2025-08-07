@@ -34,14 +34,15 @@ I'm a passionate Computer Engineering graduate with expertise in **Full stack Py
 ---
 
 ### 💼 Internships / Training 
-- **Android Development Trainee** @Mountreach Soltuion Pvt.Ltd Amaravati.  
+- **Android Development Trainee** @Mountreach Solution Pvt.Ltd Amaravati.  
 - **ML Intern** @InternPe
 
 
 
 ---
 
-### Attended Google DevFest-2024 @Chhatrapati Sambhajinagar
+### 🧑‍💻 Attended Google DevFest-2024 @Chhatrapati Sambhajinagar
+- 📱 **Android Development**
 
 ---
 
