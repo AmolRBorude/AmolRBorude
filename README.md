@@ -48,4 +48,5 @@ I'm a passionate Computer Engineering graduate with expertise in **Full stack Py
 
 ### 📫 Connect with Me  
 - ✉️ Email: amolborude2020@gmail.com 
-- 🔗 LinkedIn: [LinkedIn](https://www.linkedin.com/in/amol-ramdas-borude-a8ba12330?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+- 🔗 LinkedIn: [LinkedIn](https://www.linkedin.com/in/amol-ramdas-borude-a8ba12330?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 🔗 Leet Code: [https://leetcode.com/u/AmolRamdasBorude/]
