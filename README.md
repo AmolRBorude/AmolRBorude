@@ -4,7 +4,7 @@
 ---
 
 ### 🚀 About Me  
-I'm a passionate Computer Engineering graduate with expertise in **Full stack Python Developer** and **Android App Development**. I have completed **Training in Android Development** at Mountreach Soltuion Pvt.Ltd Amaravati.
+I'm a passionate Computer Engineering graduate with expertise in **Backend Developer** and **Android App Development**. I have completed **Training in Android Development** at Mountreach Soltuion Pvt.Ltd Amaravati.
 
 ---
 
@@ -49,4 +49,4 @@ I'm a passionate Computer Engineering graduate with expertise in **Full stack Py
 ### 📫 Connect with Me  
 - ✉️ Email: amolborude2020@gmail.com 
 - 🔗 LinkedIn: [LinkedIn](https://www.linkedin.com/in/amol-ramdas-borude-a8ba12330?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- 🔗 Leet Code: [https://leetcode.com/u/AmolRamdasBorude/]
+- 🔗 Leet Code: [Leet Code](https://leetcode.com/u/AmolRamdasBorude/)
