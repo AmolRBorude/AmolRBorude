@@ -9,17 +9,17 @@ I'm a passionate Computer Engineering graduate with expertise in **Backend Devel
 ---
 
 ### 🔭 Current Focus Areas  
-- **Full-Stack Web Development** using **Django**, **Flask**, and modern frontend tools  
+- **Full-Stack Web Development** using **Java**, **Spring and Spring Boot**, and modern frontend tools  
 
 
 ---
 
 ### 🛠️ Technologies & Skills  
-**Languages :** `Python`, `C`, `C++`, `Java`,`Kotlin`,`JavaScript`,`HTML`,`CSS`,`DSA`  
-**Frameworks :** `Django`, `Flask`
+**Languages :** `Java`,`Python`, `C`, `C++`,`Kotlin`,`JavaScript`,`HTML`,`CSS`,`DSA`  
+**Frameworks :** `Spring`,`Spring Boot`,`Django`, `Flask`
 **Libraries :** `NumPy`,`Pandas`,`Plotly `,`Matplotlib`,`Seaborn`
-**Tools :** `Git`, `Jupyter`, `VS Code`, `Dev C++`
-**Database:** `MySQL`,`SQLite`
+**Tools :** `Eclips`,`Postman`,`Git`, `Jupyter`, `VS Code`, `Dev C++`,
+**Database:** `MySQL`,`SQLite`,`MongoDB`
 
 ---
 
