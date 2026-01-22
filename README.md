@@ -24,6 +24,7 @@ I'm a passionate Computer Engineering graduate with expertise in **Backend Devel
 ---
 
 ### ⭐ Featured Projects  
+-    **ATM Management System**
 - 💇 **Hair Salon Appoinment website using Flask with MySQL Database**
 - 🤰 **She safe Android App**
 - 🚗 **Car price prediction web using Django with ML Model**
