@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Amol Ramdas Borude  
-🎓 Computer Engineering Graduate | 💻 Backend & Full-Stack Developer | 📱 Android Developer  
+🎓 Computer Engineering Student | 💻 Backend & Full-Stack Developer | 📱 Android Developer  
 
 ---
 
