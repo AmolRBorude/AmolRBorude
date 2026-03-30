@@ -1,54 +1,79 @@
-👋 Hi there, I'm **Borude Amol Ramdas**  
-🎓 Software Developer
+# 👋 Hi, I'm Amol Borude  
+🎓 Computer Engineering Graduate | 💻 Backend & Full-Stack Developer | 📱 Android Developer  
 
 ---
 
-### 🚀 About Me  
-I'm a passionate Computer Engineering graduate with expertise in **Backend Developer** and **Android App Development**. I have completed **Training in Android Development** at Mountreach Soltuion Pvt.Ltd Amaravati.
+## 🚀 About Me  
+I am a passionate Software Developer with strong expertise in **Backend Development, Full-Stack Development, and Android App Development**.
+
+- 💡 Skilled in building scalable applications using **Java & Spring Boot**
+- 📱 Trained in Android Development at **Mountreach Solution Pvt. Ltd., Amaravati**
+- 🧠 Interested in **Machine Learning & Real-world problem solving**
+- 🎯 Actively improving **DSA & problem-solving skills**
 
 ---
 
-### 🔭 Current Focus Areas  
-- **Full-Stack Web Development** using **Java**, **Spring and Spring Boot**, and modern frontend tools  
-
-
----
-
-### 🛠️ Technologies & Skills  
-**Languages :** `Java`,`Python`, `C`, `C++`,`Kotlin`,`JavaScript`,`HTML`,`CSS`,`DSA`  
-**Frameworks :** `Spring`,`Spring Boot`,`Django`, `Flask`
-**Libraries :** `NumPy`,`Pandas`,`Plotly `,`Matplotlib`,`Seaborn`
-**Tools :** `Eclips`,`Postman`,`Git`, `Jupyter`, `VS Code`, `Dev C++`,
-**Database:** `MySQL`,`SQLite`,`MongoDB`
+## 🔭 Current Focus  
+- Full-Stack Development (**Spring Boot + React**)  
+- Data Structures & Algorithms (**LeetCode**)  
+- Exploring **Microservices Architecture**
 
 ---
 
-### ⭐ Featured Projects  
--    **ATM Management System**
-- 💇 **Hair Salon Appoinment website using Flask with MySQL Database**
-- 🤰 **She safe Android App**
-- 🚗 **Car price prediction web using Django with ML Model**
-- 📱 **Contact Book Website Using Django with SQLite Database**
-- 💰 **Finance Tracker Website using Django with SQLite Database**
+## 🛠️ Technologies & Skills  
 
-
----
-
-### 💼 Internships / Training 
-- **Android Development Trainee** @Mountreach Solution Pvt.Ltd Amaravati.  
-- **ML Intern** @InternPe
-
-
+**Languages :** `Java`, `Python`, `C`, `C++`, `Kotlin`, `JavaScript`  
+**Web :** `HTML`, `CSS`, `JavaScript`  
+**Frameworks :** `Spring`, `Spring Boot`, `Django`, `Flask`  
+**Libraries :** `NumPy`, `Pandas`, `Matplotlib`, `Plotly`  
+**Tools :** `Git`, `Postman`, `VS Code`, `Eclipse`, `Jupyter`  
+**Database :** `MySQL`, `SQLite`, `MongoDB`
 
 ---
 
-### 🧑‍💻 Attended Google DevFest-2024 @Chhatrapati Sambhajinagar
-- 📱 **Android Development**
+## ⭐ Featured Projects  
+
+- **ATM-MGT-JAVA**  
+  → Java-based ATM simulation system with deposit, withdraw, and balance features  
+
+- **real-Time-Chat-App-SpringBoot**  
+  → Real-time chat application using Spring Boot and WebSockets  
+
+- **AudioTranscribe_Project_Spring_Boot**  
+  → Converts audio into text using backend processing  
+
+- **Ecommerce_Web_Spring_Boot_-_ReactJS**  
+  → Full-stack e-commerce web app using Spring Boot and React  
+
+- **Email_Assistant_Project**  
+  → Smart email generator using backend API integration  
+
+- **ecommerce-springboot-react**  
+  → Backend-focused e-commerce system using Spring Boot  
 
 ---
 
-### 📫 Connect with Me  
-- ✉️ Email: amolborude2020@gmail.com 
-- 🔗 LinkedIn: [LinkedIn](https://www.linkedin.com/in/amol-ramdas-borude-a8ba12330?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- 🔗 Leet Code: [LeetCode](https://leetcode.com/u/AmolRamdasBorude/)
-- 🌐 Portfolio: [Portfolio](https://amolramdasborude.netlify.app/)
+## 💼 Internships / Training  
+
+- **Android Development Trainee** @ Mountreach Solution Pvt. Ltd., Amaravati  
+- **Machine Learning Intern** @ InternPe  
+
+---
+
+## 🧑‍💻 Achievements  
+
+- Participated in **Google DevFest 2024 (Android Development)**  
+- Active on **LeetCode**  
+
+---
+
+## 📫 Connect with Me  
+
+- ✉️ Email: amolborude2020@gmail.com  
+- 🔗 LinkedIn: https://www.linkedin.com/in/amol-ramdas-borude-a8ba12330  
+- 💻 LeetCode: https://leetcode.com/u/AmolRamdasBorude  
+- 🌐 Portfolio: https://amolramdasborude.netlify.app  
+
+---
+
+⭐ *Always eager to learn and build impactful solutions.*
