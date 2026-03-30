@@ -68,8 +68,8 @@ I am a passionate Software Developer with strong expertise in **Backend Developm
 ---
 
 ### 📫 Connect with Me - 
-✉️ Email: amolborude2020@gmail.com - 
-🔗 LinkedIn:[LinkedIn](https://www.linkedin.com/in/amol-ramdas-borude-a8ba12330/)
+- ✉️ Email: amolborude2020@gmail.com 
+- 🔗 LinkedIn:[LinkedIn](https://www.linkedin.com/in/amol-ramdas-borude-a8ba12330/)
 - 🔗 Leet Code: [LeetCode](https://leetcode.com/u/AmolRamdasBorude/)
 - 🌐 Portfolio: [Portfolio](https://amolramdasborude.netlify.app/)
 
