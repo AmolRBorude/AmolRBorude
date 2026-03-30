@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Amol Borude  
+# 👋 Hi, I'm Amol Ramdas Borude  
 🎓 Computer Engineering Graduate | 💻 Backend & Full-Stack Developer | 📱 Android Developer  
 
 ---
