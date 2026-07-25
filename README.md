@@ -11,9 +11,8 @@
 </p>
 
 <p align="center">
-<a href="https://your-portfolio.com">🌐 Portfolio</a> •
-<a href="https://linkedin.com/in/your-linkedin">💼 LinkedIn</a> •
-<a href="mailto:yourmail@gmail.com">📧 Email</a>
+<a href="https://www.linkedin.com/in/amol-borude-a8ba12330/">💼 LinkedIn</a> •
+<a href="mailto:amolborude2020@gmail.com">📧 Email</a>
 </p>
 
 ---
@@ -91,79 +90,5 @@ I'm a passionate **Computer Engineering student** and **Full Stack Java Develope
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide)
 
 ---
-
-# 📂 Featured Projects
-
-### 🚀 Microservices Project
-
-Spring Boot • Spring Cloud • JWT • Eureka • API Gateway • MySQL
-
----
-
-### 🛒 E-Commerce Web Application
-
-Spring Boot • React.js • Hibernate • MySQL
-
----
-
-### 🎓 Student Management System
-
-Spring Boot • Spring MVC • Thymeleaf • MySQL
-
----
-
-### 🏧 ATM Management System
-
-Java • JDBC • Swing • MySQL
-
----
-
-# 📊 GitHub Analysis
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AmolRBorude&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmolRBorude&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=AmolRBorude&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AmolRBorude&theme=tokyonight&row=1&column=7"/>
-
-</p>
-
----
-
-# 📫 Connect with Me
-
-📧 Email: yourmail@gmail.com
-
-💼 LinkedIn: https://linkedin.com/in/your-linkedin
-
-🌐 Portfolio: https://your-portfolio.com
-
-🐙 GitHub: https://github.com/AmolRBorude
-
----
-
-<p align="center">
-
-### ⭐ "Code • Learn • Build • Repeat"
 
 </p>
