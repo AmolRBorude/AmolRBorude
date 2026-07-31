@@ -4,7 +4,7 @@
 
 ### 💻 Full-Stack Java Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Java+Full-Stack+Developer;Spring+Boot+Developer;React+Developer;Microservices+Learner;Machine+Learning+Enthusiast" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Java+Full-Stack+Developer;Spring+Boot+Developer;React+Developer;Microservices+Learner;" />
 
 ---
 
@@ -12,10 +12,10 @@
 
 💡 Computer Engineering Graduate | Full-Stack Developer
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://amolramdasborude.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/amol-borude-a8ba12330/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/AmolRBorude)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail)](mailto:amolborude2020@gmail.com)
 
 </div>
 
@@ -95,9 +95,9 @@ I'm a **Java Full-Stack Developer** passionate about building scalable web appli
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AmolRBorude&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmolRBorude&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
@@ -107,7 +107,7 @@ I'm a **Java Full-Stack Developer** passionate about building scalable web appli
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=AmolRBorude&theme=github-dark-blue&hide_border=true"/>
 
 </p>
 
@@ -117,7 +117,7 @@ I'm a **Java Full-Stack Developer** passionate about building scalable web appli
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AmolRBorude&theme=github-dark"/>
 
 </p>
 
@@ -127,7 +127,7 @@ I'm a **Java Full-Stack Developer** passionate about building scalable web appli
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&column=4&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=AmolRBorude&theme=algolia&column=4&margin-w=15"/>
 
 </p>
 
@@ -147,15 +147,15 @@ I'm a **Java Full-Stack Developer** passionate about building scalable web appli
 
 <p align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/AmolRamdasBorude">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:amolborude2020@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/AmolRBorude">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
